@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-openWB (self-hosted) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://openwb.de/
+openWB provides a self‑hosted, modular electric vehicle charging solution that combines a 7‑inch touchscreen controller with integrated energy management software. The system enables smart charging for households, businesses and residential property owners (WEGs), allowing users to monitor and control energy consumption, integrate photovoltaic surplus, and upgrade existing wallboxes. openWB’s open‑source approach lets installers customize and extend functionality while maintaining compliance with European charging standards.
+
+**Areas:** Company · Energy · EVCharging · SmartHome · OpenSource · SelfHosted
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://openwb.de/)
+- [Support](https://openwb.de/main/support/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/openwb/](https://apis.io/providers/openwb/).
